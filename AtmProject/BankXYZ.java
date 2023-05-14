@@ -9,6 +9,7 @@ public class BankXYZ extends Operations {
     static Scanner enter = new Scanner(System.in).useDelimiter("\n");
     public static void main(String[] args) throws IOException {
         try {
+            //here also
             BankXYZ bankXYZ = new BankXYZ();
             System.out.println("Select the user type please!!!");
             System.out.print("1.\tBank Administrator.\n2.\tCustomer\n");
