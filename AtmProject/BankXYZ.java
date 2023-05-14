@@ -1,7 +1,7 @@
 package Practice.InterviewQuestion.Random.AtmProject;
 
 
-import java.io.*;
+import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
