@@ -859,6 +859,13 @@ import java.util.*;
 
     //true means cardNumber doesn't exist.
      //false means cardNumber exist.
+
+     /**
+      * @author Surmani konsam
+      * @param cardNumber
+      * @return
+      * @throws IOException
+      */
     public boolean creditCardNumberDoesNotExist(long cardNumber) throws IOException {
         FileReader fileReader;
         BufferedReader bufferedReader = null;
