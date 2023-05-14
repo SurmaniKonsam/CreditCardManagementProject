@@ -10,7 +10,7 @@ public class BankXYZ extends Operations {
     public static void main(String[] args) throws IOException {
         try {
             BankXYZ bankXYZ = new BankXYZ();
-            System.out.println("Select the user type!!!");
+            System.out.println("Select the user type please!!!");
             System.out.print("1.\tBank Administrator.\n2.\tCustomer\n");
             int userType = enter.nextInt();
             switch (userType) {
