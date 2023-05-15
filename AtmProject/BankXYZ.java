@@ -6,7 +6,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class BankXYZ extends Operations {
-
+    
     static Scanner enter = new Scanner(System.in).useDelimiter("\n");
     public static void main(String[] args) throws IOException {
         try {
