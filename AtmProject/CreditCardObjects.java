@@ -14,7 +14,6 @@ public class CreditCardObjects {
         CreditCardObjects.fetchTheUser = fetchTheUser;
     }
 
-    
     String userName;
     long creditCardNumber;
     int cardPin;
