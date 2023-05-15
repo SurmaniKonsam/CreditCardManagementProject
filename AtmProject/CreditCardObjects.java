@@ -6,7 +6,6 @@ import java.util.Objects;
 public class CreditCardObjects {
     public static String fetchTheUser;
 
-    
     public static String getFetchTheUser() {
         return fetchTheUser;
     }
